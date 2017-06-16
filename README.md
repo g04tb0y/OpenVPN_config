@@ -271,4 +271,5 @@ sudo mv resolv.conf /etc/resolv.conf
 [openvpn.net - How To](https://openvpn.net/index.php/open-source/documentation/howto.html)
 
 [Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-56Ar2.pdf)
+
 [Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer Security (TLS)](https://tools.ietf.org/html/rfc7919)
