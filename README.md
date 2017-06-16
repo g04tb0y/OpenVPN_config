@@ -234,7 +234,7 @@ comp-lzo
 
 # Security Enanchement
 
-If you want to improve cryptography and your server and openvpn client support it, you could use ECDHE (Elliptic curve Diffie–Hellman) for key exchange + RSA for authentication + AES-256-GCM-SHA384 (authenticated by Galois/Counter Mode with SHA384) for the handshake:
+If you want to improve cryptography and your server and openvpn client support it, you could use ECDHE (Elliptic curve Diffie–Hellman):
 ```
 tls-cipher TLS-ECDHE-RSA-WITH-AES-256-GCM-SHA384:TLS-ECDHE-ECDSA-WITH-AES-256-GCM-SHA384
 ```
