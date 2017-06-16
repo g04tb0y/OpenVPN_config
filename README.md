@@ -119,7 +119,7 @@ tls-cipher TLS-DHE-RSA-WITH-AES-256-GCM-SHA384:TLS-DHE-RSA-WITH-AES-128-GCM-SHA2
 <key>
 -----BEGIN ENCRYPTED PRIVATE KEY-----
 mFMLzLUyBmqEv4SLg7bLmb0NdVBa+WW/7vjGppe8GSiAE5CPDlqHNopdGT8RkZWx
-...
+...insert client private key
 ...
 -----END ENCRYPTED PRIVATE KEY-----
 </key>
@@ -128,7 +128,7 @@ mFMLzLUyBmqEv4SLg7bLmb0NdVBa+WW/7vjGppe8GSiAE5CPDlqHNopdGT8RkZWx
 -----BEGIN CERTIFICATE-----
 coBBfzi3/bdJhk5tuXnY+9GKgHyCsr5W3E+wrQEjykHDSaWjMBMGA1UdJQQMMAoG
 ...
-...insert
+...insert client certificate
 -----END CERTIFICATE-----
 </cert>
 
